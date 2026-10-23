@@ -16,9 +16,9 @@
 
 | Publication | Format | Content |
 | --- | --- | --- |
-| [**Download the White Paper**](GII-Research-Note-02-Data-Center-White-Paper-v1.0.pdf) | PDF · 72 pages | Full research paper, underwriting analysis, references, and 17 investor exhibits. |
-| [**View the Underwriting Model Booklet**](GII-Research-Note-02-10MW-Underwriting-v1.0.pdf) | PDF · 37 pages | One landscape print page per worksheet, for convenient reading and citation. |
-| [**Download the Underwriting Workbook**](GII-Research-Note-02-10MW-Underwriting-v1.0.xlsx) | Excel · 37 worksheets | Editable assumptions, formula-based analysis, working schedules, sensitivity screens, and investor exhibits. |
+| [**Download the White Paper**](GII-Research-Note-02-Data-Center-White-Paper-v1_0.pdf) | PDF · 72 pages | Full research paper, underwriting analysis, references, and 17 investor exhibits. |
+| [**View the Underwriting Model Booklet**](GII-Research-Note-02-10MW-Underwriting-v1_0.pdf) | PDF · 37 pages | One landscape print page per worksheet, for convenient reading and citation. |
+| [**Download the Underwriting Workbook**](GII-Research-Note-02-10MW-Underwriting-v1_0.xlsx) | Excel · 37 worksheets | Editable assumptions, formula-based analysis, working schedules, sensitivity screens, and investor exhibits. |
 
 ## Executive summary
 
